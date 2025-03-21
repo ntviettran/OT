@@ -27,5 +27,3 @@ dist/
 
 _ReSharper.Caches/
 *.DotSettings.user
-
-*.Designer.cs
